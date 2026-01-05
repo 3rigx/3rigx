@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3rigx Greendly Guosadia 
 - 👀 I’m a Programmer
-- 🌱 I Progam with c#, Flutter, Java and React NodeJs.
-- 📫 How to reach me Email : greendlyyounglubert@gmail.com
+- 🌱 I Progam with C#, Flutter, Java, Python and React, NodeJS.
+- 📫 How to reach me Email: greendlyguosadia@gmail.com
 
 <!---
 3rigx/3rigx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
