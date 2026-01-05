@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3rigx Greendly Guosadia 
 - 👀 I’m a Programmer
-- 🌱 I Progam with C#, Flutter, Java, Python and React, NodeJS.
+- 🌱 I Progam with C#, Flutter, Java, Python, React and NodeJS.
 - 📫 How to reach me Email: greendlyguosadia@gmail.com
 
 <!---
