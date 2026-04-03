@@ -1,6 +1,7 @@
 ### Hi there, I'm Greendly Guosadia 👋
 
-🎓 **MSc Data Intelligence** 
+🎓 **MSc Data Intelligence**
+
 💼 **Software & Data Engineer** with 4+ years of professional experience  
 🏆 Dean's Recognition Award & Vice-Chancellor's Commendation — National CS Hackathon 2020  
 🌍 Based in the UK   
