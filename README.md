@@ -3,7 +3,7 @@
 🎓 **MSc Data Intelligence**
 
 💼 **Software & Data Engineer** with 4+ years of professional experience  
-🏆 Dean's Recognition Award & Vice-Chancellor's Commendation — National CS Hackathon 2020  
+🏆 Dean's Recognition Award & Vice-Chancellor's Commendation — National CS Hackathon 2020  - 3rd placeHackabury 2026
 🌍 Based in the UK   
 
 ---
